@@ -26,3 +26,8 @@
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-0) - Delft X Caltech
 
 - [QIST 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/4th5th.php): Vidick's lectures
+
+
+## 茶余饭后
+
+- [Quantum Computing Since Democritus](https://www.scottaaronson.com/democritus/)
