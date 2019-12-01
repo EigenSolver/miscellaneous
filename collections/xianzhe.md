@@ -2,6 +2,8 @@
 
 - Nielson, M. & Chuang, I. *Quantum Computation and Quantum Information*. (Cambridge University Press, 2011). 第二章
 
+- [scirate](https://scirate.com/arxiv/quant-ph) or [arXiv](https://arxiv.org/list/quant-ph/new)
+
 
 ### Quantum supremacy
 
@@ -15,6 +17,11 @@
 
 - [Experimental Cryptographic Verification for Near-Term Quantum Cloud Computing](https://arxiv.org/pdf/1808.07375.pdf)：看理论部分就可以
 
+
+
+### Quantum Approximate Optimization Algorithm (QAOA)
+
+- [A Quantum Approximate Optimization Algorithm](http://arxiv.org/abs/1411.4028)
 
 
 
