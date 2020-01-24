@@ -4,6 +4,8 @@
 
 - [scirate](https://scirate.com/arxiv/quant-ph) or [arXiv](https://arxiv.org/list/quant-ph/new)
 
+- Preskill, [Quantum Computing at Caltech](http://www.theory.caltech.edu/~preskill/ph219/ph219_2018-19)
+
 
 ### Quantum supremacy
 
