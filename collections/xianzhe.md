@@ -4,6 +4,8 @@
 
 - [scirate](https://scirate.com/arxiv/quant-ph) or [arXiv](https://arxiv.org/list/quant-ph/new)
 
+- Preskill, [Quantum Computing at Caltech](http://www.theory.caltech.edu/~preskill/ph219/ph219_2018-19)
+
 
 ### Quantum supremacy
 
@@ -33,6 +35,10 @@
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-0) - Delft X Caltech
 
 - [QIST 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/4th5th.php): Vidick's lectures
+
+- [Quantum Information Science, MITx](https://www.edx.org/course/quantum-information-science-i-part-1)
+
+- [Quantum Computing and Quantum Internet](https://www.edx.org/professional-certificate/delftx-quantum-computing-and-quantum-internet)
 
 
 ## 茶余饭后
